@@ -1,0 +1,9 @@
+path: ./datasets/yolo_seg
+train: images/train
+val: images/val
+names:
+  0: lesion
+  1: streaks
+  2: globules
+  3: pigment_network
+  4: milia_like_cyst
